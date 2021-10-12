@@ -39,7 +39,7 @@ Add Your Name Here
 Short Answer:
 In the associated figure of the flights data set, the x-axis has been assigned to "air_time" and the y-axis has been assigned to "distance." There are many qualities of the plot that indicate non-random behavior in the data.
 
-In clear and meaningful language, choose two (2) non-random trends in the plot that you notice. For each trend, discuss why you are sure that the trends in the data exist and that they are not random occurrences in the data.
+In clear and meaningful language, choose two (2) non-random trends in the plot that you notice. For each trend, discuss how you are sure that the trends in the data exist and that they are not random occurrences.
 
 
 ![flightPlot plot](graphics/flightPlot.png)
