@@ -249,7 +249,7 @@ What does the `aes()` function do in the plotting function?
 (10 Points)
 
 
-In the associated plot of a data set, the _x_-axis has been assigned to "density", and the _y_-axis has been assigned to "conc." Which type of mapping function would you expect to find in the `ggplot()` code block to create this plot? In clear and meaningful language,  offer a justification of your response.
+Short answer: In the associated plot of a data set, the _x_-axis has been assigned to "density", and the _y_-axis has been assigned to "conc." Which type of mapping function would you expect to find in the `ggplot()` code block to create this plot? In clear and meaningful language,  offer a justification of your response.
 
 ![data plot](graphics/plot.png)
 
@@ -340,7 +340,7 @@ Analyzing the colors of the data points for the "Ideal" category, which quantiti
 ### Bonus Question:
 (Earn back 10 points)
 
-In clear and meaningful language, explain how an unjust or unethical policy could result from the improper use of data analytics.
+Short answer: In clear and meaningful language, explain how an unjust or unethical policy could result from the improper use of data analytics.
 
 
 **Place your discussion below**
