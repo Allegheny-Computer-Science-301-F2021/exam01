@@ -186,10 +186,10 @@ Multiple choice: A data frame called, "myTable" has been created  and is shown b
 ```
 sum(myTable[1,3],myTable[3,1])
 ```
+Table for Problem 7
 
 ![data table](graphics/myTable.png)
 
-Table for Problem 7
 
 
  - A. 18
