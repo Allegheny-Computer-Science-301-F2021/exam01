@@ -94,19 +94,19 @@ __(Note, if you are able to view markdown formatting in your document, the below
 
 | Term	|	Definitions|
 | ---- | ---- |
-1.	arrange()		|A.	A method to display formatted data frames.
-2.	Camelcasing	|	B.	A scatter point creator function.
-3.	filter()		|	C.	Able to generate new variables from existing variables in a dataset. This function is also able to preserve the existing variables from the dataset.
-4.	geom_point()	|	D.	Collapse data into single subsets.
-5.	ggplot()	|	E.	Command to get the column headers of a table.
-6.	mutate()	|	F.	Concatenate vectors after converting them to character forms.
-7.	names()	|	G.	Finds rows/cases where conditions are true.
-8.	paste()	|	H.	Generates regular sequences.
-9.	rm(list = ls())	|	I.	Picks columns.
-10.	select()	|	J.	Removes existing variables in memory.
-11.	Seq()	|	K.	Reorders rows in a table according to conditions.
-12.	summarise()	|	L.	This function declares an input data set for a graphic and specifies aesthetics.
-13.	view	|	M.	Writing variables in the form; "myDataNum."
+|1.	arrange()		|A.	A method to display formatted data frames.|
+|2.	Camelcasing	|	B.	A scatter point creator function.|
+|3.	filter()		|	C.	Able to generate new variables from existing variables in a dataset. This function is also able to preserve the existing variables from the dataset.|
+|4.	geom_point()	|	D.	Collapse data into single subsets.|
+|5.	ggplot()	|	E.	Command to get the column headers of a table.|
+|6.	mutate()	|	F.	Concatenate vectors after converting them to character forms.|
+|7.	names()	|	G.	Finds rows/cases where conditions are true.|
+|8.	paste()	|	H.	Generates regular sequences.|
+|9.	rm(list = ls())	|	I.	Picks columns.|
+|10.	select()	|	J.	Removes existing variables in memory.|
+|11.	Seq()	|	K.	Reorders rows in a table according to conditions.|
+|12.	summarise()	|	L.	This function declares an input data set for a graphic and specifies aesthetics.|
+|13.	view	|	M.	Writing variables in the form; "myDataNum."|
 
 
 **Pair the definitions (letters) on the numbered lines (terms)**
