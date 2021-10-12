@@ -5,7 +5,7 @@ indent: 4
 ---
 
 # --> check the technical writing
-exams/exam1.md:
+exam/exam1.md:
     ConfirmFileExists
     MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact
     MatchFileFragment --fragment "TODO" --count 0 --exact
