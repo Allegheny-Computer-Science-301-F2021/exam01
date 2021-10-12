@@ -113,20 +113,6 @@ __(Note, if you are able to view markdown formatting in your document, the below
 
 `TODO`
 
- - 1.
- - 2.
- - 3.
- - 4.
- - 5.
- - 6.
- - 7.
- - 8.
- - 9.
- - 10.
- - 11.
- - 12.
- - 13.
-
 
 
 ---
@@ -187,11 +173,6 @@ Matching. Complete the matching for Google Analytics terms to their definitions.
 
 `TODO`
 
- - 1.
- - 2.
- - 3.
- - 4.
- - 5.
 
 
 
