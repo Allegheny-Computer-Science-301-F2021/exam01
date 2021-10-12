@@ -109,7 +109,7 @@ __(Note, the below table contains the terms and the definitions to be matched in
 |13.	view	|	M.	Writing variables in the form; "myDataNum."|
 
 
-**Pair the definitions (letters) on the numbered lines (terms)**
+**Pair the terms as numbers to corresponding definitions as a letters**
 
 `TODO`
 
@@ -169,7 +169,7 @@ __(Note, the below table contains the terms and the definitions to be matched in
 |4. Referral arrivals| D. Visitors who come to your website from a social network.|
 |5. Social arrivals| E. Visitors who come to your website after searching Google.com and other search engines |
 
-**Pair the definitions (letters) on the numbered lines (terms)**
+**Pair the terms as numbers to corresponding definitions as a letters**
 
 `TODO`
 
