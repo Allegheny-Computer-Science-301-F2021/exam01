@@ -188,6 +188,7 @@ sum(myTable[1,3],myTable[3,1])
 ```
 
 ![data table](graphics/myTable.png)
+
 Table for Problem 7
 
 
