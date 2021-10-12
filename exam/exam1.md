@@ -90,7 +90,7 @@ Second trend discussion:
 
 
 Matching. Match each vocabulary element to its the corresponding definition.
-__(Note, if you are able to view markdown formatting in your document, the below table contains the vocabulary and the definitions to be matched.)__
+__(Note, the below table contains the terms and the definitions to be matched in markdown formatting.)__
 
 | Term	|	Definitions|
 | ---- | ---- |
@@ -159,7 +159,7 @@ Multiple choice: For a blogging website, which of the following statements would
 
 
 Matching. Complete the matching for Google Analytics terms to their definitions.
-**(Note, if you are able to view markdown formatting in your document, the below table contains the vocabulary and the definitions to be matched.)**
+__(Note, the below table contains the terms and the definitions to be matched in markdown formatting.)__
 
 | Term		|	Definitions|
 |:----|:----|
