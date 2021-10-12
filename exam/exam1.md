@@ -93,7 +93,7 @@ Matching. Match each vocabulary element to its the corresponding definition.
 __(Note, if you are able to view markdown formatting in your document, the below table contains the vocabulary and the definitions to be matched.)__
 
 | Term	|	Definitions|
-|:----|:----|
+| ---- | ---- |
 1.	arrange()		|A.	A method to display formatted data frames.
 2.	Camelcasing	|	B.	A scatter point creator function.
 3.	filter()		|	C.	Able to generate new variables from existing variables in a dataset. This function is also able to preserve the existing variables from the dataset.
